@@ -1,9 +1,10 @@
 ﻿@page "/fetchdata"
 
-<PageTitle>Weather forecast</PageTitle>
+<PageTitle>Learning Website</PageTitle>
 
 @using TestProj.Data
 @inject WeatherForecastService ForecastService
+@inject ESVService BibleService
 
 <h1>Weather forecast</h1>
 
@@ -36,13 +37,18 @@ else
             }
         </tbody>
     </table>
+    <p>
+        @verse
+    </p>
 }
 
 @code {
     private WeatherForecast[]? forecasts;
+    private string? verse;
 
     protected override async Task OnInitializedAsync()
     {
         forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+        verse = await BibleService.GetBibleInfo();
     }
 }

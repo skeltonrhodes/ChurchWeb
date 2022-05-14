@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/dougbob/Websites/TestProj/TestProj.csproj",
+  "FilePath": "/home/dougbob/Websites/ChurchWeb/TestProj.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -41,39 +41,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "TestProj.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 463257320,
-        "Kind": "Components.Component",
-        "Name": "TestProj.Pages.FetchData",
-        "AssemblyName": "TestProj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestProj.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1263514367,
-        "Kind": "Components.Component",
-        "Name": "TestProj.Pages.FetchData",
-        "AssemblyName": "TestProj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TestProj.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TestProj.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16612,59 +16579,59 @@
   "RootNamespace": "TestProj",
   "Documents": [
     {
-      "FilePath": "/home/dougbob/Websites/TestProj/_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "/home/dougbob/Websites/TestProj/Shared/MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/dougbob/Websites/TestProj/App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/dougbob/Websites/TestProj/Pages/Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/dougbob/Websites/TestProj/Pages/_Layout.cshtml",
-      "TargetPath": "Pages\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/dougbob/Websites/TestProj/Shared/SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/dougbob/Websites/TestProj/Pages/FetchData.razor",
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/Pages/FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/home/dougbob/Websites/TestProj/Pages/Counter.razor",
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/Pages/Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/home/dougbob/Websites/TestProj/Shared/NavMenu.razor",
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/Pages/Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/Pages/_Layout.cshtml",
+      "TargetPath": "Pages\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/Shared/NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/home/dougbob/Websites/TestProj/Pages/_Host.cshtml",
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/Shared/MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/Pages/_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/dougbob/Websites/TestProj/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/Shared/SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/dougbob/Websites/ChurchWeb/_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
     }
   ],
   "SerializationFormat": "0.2"
