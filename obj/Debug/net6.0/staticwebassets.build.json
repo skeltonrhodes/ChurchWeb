@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MkFOHZRG3ul+e9CWxQk7P1WFw3hXGG0Gzy5CUDDV5as=",
+  "Hash": "XsiShpcfXDG4OUKSgCkvAbKMB/DA5B+BKDJ/XZ8B+iU=",
   "Source": "TestProj",
   "BasePath": "_content/TestProj",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TestProj/wwwroot",
       "Source": "TestProj",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/dougbob/Websites/TestProj/obj/Debug/net6.0/scopedcss/bundle/TestProj.styles.css",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/obj/Debug/net6.0/scopedcss/bundle/TestProj.styles.css",
       "SourceId": "TestProj",
       "SourceType": "Computed",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/TestProj",
       "RelativePath": "TestProj.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/dougbob/Websites/TestProj/obj/Debug/net6.0/scopedcss/bundle/TestProj.styles.css"
+      "OriginalItemSpec": "/home/dougbob/Websites/ChurchWeb/obj/Debug/net6.0/scopedcss/bundle/TestProj.styles.css"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/obj/Debug/net6.0/scopedcss/projectbundle/TestProj.bundle.scp.css",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/obj/Debug/net6.0/scopedcss/projectbundle/TestProj.bundle.scp.css",
       "SourceId": "TestProj",
       "SourceType": "Computed",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/TestProj",
       "RelativePath": "TestProj.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/dougbob/Websites/TestProj/obj/Debug/net6.0/scopedcss/projectbundle/TestProj.bundle.scp.css"
+      "OriginalItemSpec": "/home/dougbob/Websites/ChurchWeb/obj/Debug/net6.0/scopedcss/projectbundle/TestProj.bundle.scp.css"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/open-iconic/README.md",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/open-iconic/README.md",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/css/site.css",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/css/site.css",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/dougbob/Websites/TestProj/wwwroot/favicon.ico",
+      "Identity": "/home/dougbob/Websites/ChurchWeb/wwwroot/favicon.ico",
       "SourceId": "TestProj",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/dougbob/Websites/TestProj/wwwroot/",
+      "ContentRoot": "/home/dougbob/Websites/ChurchWeb/wwwroot/",
       "BasePath": "_content/TestProj",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

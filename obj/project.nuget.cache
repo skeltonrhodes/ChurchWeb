@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f4tKYjd3po1lp4PCGYhkqPr7XVEq2O8DknF5ygMxaVBwBL0i+zThU7l3YkA1sncC0D/oVZgZ4Uv4pQ+h+ww2LA==",
+  "dgSpecHash": "SyZKhMbTD8X1f1cJr8PuwAChkAzVQKUtd3MtWMwPDrL/mNn6Jx8GXfnbFzasok/HzfXr0dS5t1fKuIJyHziclw==",
   "success": true,
-  "projectFilePath": "/home/dougbob/Websites/TestProj/TestProj.csproj",
+  "projectFilePath": "/home/dougbob/Websites/ChurchWeb/TestProj.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

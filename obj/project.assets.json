@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dougbob/Websites/TestProj/TestProj.csproj",
+      "projectUniqueName": "/home/dougbob/Websites/ChurchWeb/TestProj.csproj",
       "projectName": "TestProj",
-      "projectPath": "/home/dougbob/Websites/TestProj/TestProj.csproj",
+      "projectPath": "/home/dougbob/Websites/ChurchWeb/TestProj.csproj",
       "packagesPath": "/home/dougbob/.nuget/packages/",
-      "outputPath": "/home/dougbob/Websites/TestProj/obj/",
+      "outputPath": "/home/dougbob/Websites/ChurchWeb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dougbob/.nuget/NuGet/NuGet.Config"
